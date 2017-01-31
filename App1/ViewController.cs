@@ -19,7 +19,7 @@ namespace App1
         public override void DidReceiveMemoryWarning()
         {
             base.DidReceiveMemoryWarning();
-            // Release any cached data, images, etc that aren't in use.
+            // Release any cached data, images, etc that aren't in use...
         }
     }
 }
